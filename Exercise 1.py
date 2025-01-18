@@ -12,4 +12,4 @@ print ("Twinkle, twinkle, little star\n how i wonder what you are\n up above the
 import pyttsx3
 engine = pyttsx3.init()
 engine.say(" ooooooooooooooits a new dawn its a new day its a new life for me and i am feeling good")
-engine.runAndwait()
+engine.runAndWait()
