@@ -13,3 +13,16 @@ import pyttsx3
 engine = pyttsx3.init()
 engine.say(" ooooooooooooooits a new dawn its a new day its a new life for me and i am feeling good")
 engine.runAndWait()
+
+
+#3
+import os
+
+directory_path = 'C:/Users'
+contents= os.listdir(directory_path)
+print(contents)
+
+
+#4
+ 
+
