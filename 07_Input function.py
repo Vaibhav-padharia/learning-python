@@ -17,3 +17,7 @@ b=input("second name ")
 
 print("full name is :",a,b)
 
+a=(input("first number:"))
+b=(input("second number:")) 
+
+print ("sum of two number is :",a+b)
