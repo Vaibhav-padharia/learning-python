@@ -36,7 +36,9 @@ print("The average of both the numbers is: ",c)
 #5 write a python program to calculate the square of nuumber entereed by a user 
 a=int (input("Enter first number:"))
 
-c=(a*a)
+c=(a*a) 
 
-print("The average of both the numbers is: ",c)
+#  we can also write it as a**2
+
+print("The square of the number is: ",c)
 
