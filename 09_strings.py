@@ -27,4 +27,4 @@ print(middlename)
 #  here only kumar will be printed beacuse it starts from index 4 and ends at 9
 character=name[4]
 print(character)# will print only character at index 4
-  
+   string 
