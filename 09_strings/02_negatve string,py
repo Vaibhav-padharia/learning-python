@@ -1,0 +1,12 @@
+name ="jay"
+print(name[-1])
+# TypeError: 'str' object is not callable
+'''
+    In python we can not access the string by negative index like in other languages
+    but if we want to print the last character in index -1 then 
+    we can do it by prnting -1 below it that is
+     print(name[-1])'''
+print (name[1])
+#  the above shows that by providing negative index it starts from backward where the index zero is not counted 
+print(name[1:])  #this means [1:3]
+
