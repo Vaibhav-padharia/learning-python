@@ -1,4 +1,4 @@
-# Variables can be comnsidered as a container that holds some value
+# Variables can be considered as a container that holds some value
 
 a=25
 b=35
