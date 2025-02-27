@@ -19,9 +19,9 @@ print(t)
 a="35"  #here we will get output as string as beacuse we have used double quotes for 
         # the value of a
 print(type(a))
-
+'''
 int() - int class to construct an integer literal.
 float() - float class to construct a float literal.
-str() - string class to construct a string literal.
+str () - string class to construct a string literal.
  
-
+'''

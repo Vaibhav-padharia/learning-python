@@ -4,4 +4,4 @@ l2=l1.copy()
 print(l1+l2)
 # here we can see that we can copy the desired value
 
-
+d
