@@ -4,3 +4,4 @@ print(no)
 '''
 here we can see that this funtion returns 1 
 34 is present one time'''
+#this funtion basically returnsthe value of how many times the value has been repeated in the tuple
