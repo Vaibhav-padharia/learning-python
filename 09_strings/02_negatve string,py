@@ -13,4 +13,4 @@ print(name[1:])  #this means [1:3]
 name=str(input("the name is:"))
 age=int(input("the age is:"))
 ali=((name),(age))
-print(f"the name is {ali}")r0qweuqwjr
+print(f"the name is {ali}")
